@@ -1,4 +1,4 @@
- #Implementing a novel deep learning technique for rainfall forecasting via climatic variables
+ #Rainfall-Prediction
 The prediction of rainfall, which has major implications for several sectors including
 agriculture, water management, and disaster planning, is an essential issue in climate
 science. The old approaches to estimating rainfall often are based on historical data and
