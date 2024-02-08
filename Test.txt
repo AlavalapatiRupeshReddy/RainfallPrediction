@@ -1,2 +1,4 @@
+
 Checking the Merge conflict
+We have updated some of the files
 
